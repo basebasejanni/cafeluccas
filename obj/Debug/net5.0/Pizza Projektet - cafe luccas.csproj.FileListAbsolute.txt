@@ -1,0 +1,43 @@
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\appsettings.json
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.exe
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.deps.json
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.runtimeconfig.json
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.runtimeconfig.dev.json
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ref\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.pdb
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.Views.dll
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.Views.pdb
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.AssemblyReference.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.AssemblyInfoInputs.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.AssemblyInfo.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.CoreCompileInputs.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorAssemblyInfo.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorAssemblyInfo.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\staticwebassets\Pizza Projektet - cafe luccas.StaticWebAssets.Manifest.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\staticwebassets\Pizza Projektet - cafe luccas.StaticWebAssets.xml
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\scopedcss\bundle\Pizza Projektet - cafe luccas.styles.css
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.TagHelpers.input.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.TagHelpers.output.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorCoreGenerate.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Forms\Menu\Index.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorTargetAssemblyInfo.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorTargetAssemblyInfo.cs
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.Views.pdb
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\ref\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.pdb
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.genruntimeconfig.cache
+C:\Users\kmg513\Desktop\PizzaCafeLuccasGit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.CopyComplete
